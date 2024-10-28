@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDpo+VUYsx4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niki3\\PycharmProjects\\testEffective\\DeliveryService\\DeliveryService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niki3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\niki3\\.nuget\\packages\\serilog\\4.1.0\\serilog.4.1.0.nupkg.sha512",
+    "C:\\Users\\niki3\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
